@@ -11,15 +11,7 @@
 
 int main(void)
 {
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
+	putchar('_', 'p', 'u', 't', 'c', 'h', 'a', 'r', '\n');
 	return (0);
 }
 
